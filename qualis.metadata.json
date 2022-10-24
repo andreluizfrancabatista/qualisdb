@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"issn":{"$numberInt":"1"}},"name":"issn_1"}],"uuid":"ffbe06fc5ffe409e939d761f94068874","collectionName":"qualis","type":"collection"}
